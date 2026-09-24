@@ -109,7 +109,7 @@ def merge(ascii_lines, info_lines):
 
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
-    with open(os.path.join(here, "ascii.txt"), encoding="utf-8") as f:
+    with open(os.path.join(here, "ascii_tarig.txt"), encoding="utf-8") as f:
         ascii_lines = f.read().rstrip("\n").split("\n")
 
     body = merge(ascii_lines, build_info(get_stats()))
