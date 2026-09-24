@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&width=500&lines=Software+Engineer;Android+%26+Flutter+Developer;Java+%7C+C%2B%2B+%7C+Python+%7C+Web;Learning+ML+%26+Deep+Learning)
 
-[![tarig.dev](https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tarigyaegab.github.io/My-Portfolio/)
+[![ tarig.dev ](https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tarigyaegab.github.io/My-Portfolio/)
 
 </div>
 
