@@ -51,6 +51,6 @@ I build modern, scalable software applications for mobile and web, with a focus 
 
 📞 Contact
 
-🌐 [Portfolio](https://tarigyaegab.github.io/My-Portfolio/)
+🌐 [Tarig.dev](https://tarigyaegab.github.io/My-Portfolio/)
 💻 [GitHub](https://github.com/TarigYaegab)
 📧 tarigyaegab@email.com
