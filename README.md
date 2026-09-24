@@ -11,10 +11,10 @@
 
 - 👤 About me
 
-- 👨‍💻 Software Engineer based in Sudan
-- 📱 I build mobile apps with Flutter, Dart, Kotlin & Java
-- 🌐 I work with HTML, CSS, JavaScript and Python
-- 🤖 Currently learning Machine Learning & Deep Learning
+Software Engineer / Application Developer
+
+I build modern, scalable software applications for mobile and web, with a focus on clean architecture, practical solutions, and maintainable code that grows with the product.
+🤖 Currently learning Machine Learning & Deep Learning
 
 📂 Projects
 
