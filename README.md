@@ -20,7 +20,7 @@ I build modern, scalable software applications for mobile and web, with a focus 
 
 | Project | Description |
 |---|---|
-| [🧾 Bill App](https://github.com/TarigYaegab/REPO_NAME) | Flutter billing/POS app for small retail shops, with barcode scanning, SQLite and BLoC |
+| [🧾 ScanPOS](https://github.com/TarigYaegab/ScanPOS-Mobile-App) | Flutter billing/POS app for small retail shops, with barcode scanning, SQLite and BLoC |
 | [🏗️ Al-Joun Construction](https://github.com/TarigYaegab/REPO_NAME) | Static GitHub Pages website, easy for non-developers to update |
 | [🧠 nawakAI](https://github.com/TarigYaegab/REPO_NAME) | ML/DL learning journey: NumPy and linear regression from scratch |
 
