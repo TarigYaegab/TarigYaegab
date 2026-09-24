@@ -13,7 +13,7 @@
 
 ### 🧾 Bill App
 Flutter billing/POS app for small retail shops, with SQLite, BLoC state management, reports, and barcode/QR scanning.
-🔗 [Repository](https://github.com/TarigYaegab/bill-app)
+🔗 [Repository](https://github.com/TarigYaegab/ScanPOS-Mobile-App)
 
 ### 🏗️ Al-Joun Construction Website
 Static GitHub Pages website for a construction company, designed so non-developers can update it easily.
