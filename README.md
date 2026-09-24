@@ -1,7 +1,7 @@
 <div align="center">
 <img width="2000" height="600" alt="photo_2026-09-24_18-40-19" src="https://github.com/user-attachments/assets/2972f352-7d76-4ebd-bb14-d413db08cf43" />
 
-# 👋 Hi, I'm Tarig Yaegab
+👋 Hi, I'm Tarig Yaegab
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&width=500&lines=Software+Engineer;Android+%26+Flutter+Developer;Java+%7C+C%2B%2B+%7C+Python+%7C+Web;Learning+ML+%26+Deep+Learning)
 
@@ -9,14 +9,14 @@
 
 </div>
 
-## 🚀 About me
+- 👤 About me
 
 - 👨‍💻 Software Engineer based in Sudan
 - 📱 I build mobile apps with Flutter, Dart, Kotlin & Java
 - 🌐 I work with HTML, CSS, JavaScript and Python
 - 🤖 Currently learning Machine Learning & Deep Learning
 
-## 📂 Projects
+📂 Projects
 
 | Project | Description |
 |---|---|
@@ -24,7 +24,7 @@
 | [🏗️ Al-Joun Construction](https://github.com/TarigYaegab/REPO_NAME) | Static GitHub Pages website, easy for non-developers to update |
 | [🧠 nawakAI](https://github.com/TarigYaegab/REPO_NAME) | ML/DL learning journey: NumPy and linear regression from scratch |
 
-## 🛠 Skills
+💡 Skills
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -36,7 +36,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -49,8 +49,8 @@
 
 </div>
 
-## 📫 Contact
+📞 Contact
 
-- 🌐 [Portfolio](https://tarigyaegab.github.io/My-Portfolio/)
-- 💻 [GitHub](https://github.com/TarigYaegab)
-- 📧 tarigyaegab@email.com
+🌐 [Portfolio](https://tarigyaegab.github.io/My-Portfolio/)
+💻 [GitHub](https://github.com/TarigYaegab)
+📧 tarigyaegab@email.com
