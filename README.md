@@ -51,5 +51,5 @@ Learning ML/DL from scratch: NumPy, linear regression, and more.
 
 
 ## 📫 Contact
-- GitHub: [@USERNAME](https://github.com/USERNAME)
-- Email: your@email.com
+- GitHub: [@TarigYaegab](https://github.com/TarigYaegab)
+- Email: tarigyaegab@email.com
