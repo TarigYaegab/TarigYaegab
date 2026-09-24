@@ -4,7 +4,7 @@
   <p>Software Engineering | C/C++ | Java | Python | Web</p>
 </div>
 
-##👤 About me
+- 👤 About me
 - 📱 I build mobile apps with Flutter & Dart & Kotlin ● Java 
 - 🌐 I work with HTML, CSS, JavaScript and Python
 - 🤖 Currently learning Machine Learning & Deep Learning
