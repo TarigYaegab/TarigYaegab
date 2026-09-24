@@ -54,4 +54,4 @@
 
 - 🌐 [Portfolio](https://tarigyaegab.github.io/My-Portfolio/)
 - 💻 [GitHub](https://github.com/TarigYaegab)
-- 📧 tarigYaegab@email.com
+- 📧 tarigyaegab@email.com
