@@ -23,6 +23,9 @@ Static GitHub Pages website for a construction company, designed so non-develope
 Learning ML/DL from scratch: NumPy, linear regression, and more.
 🔗 [Repository](https://github.com/USERNAME/nawakAI)
 
+
+https://github-readme-stats.vercel.app/api/pin/?username=TarigYaegab&repo=SCANPOS-MOBILE-APP&theme=tokyonight
+
 ## 🛠 Skills
 
 
