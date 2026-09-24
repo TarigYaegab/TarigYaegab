@@ -2,7 +2,7 @@
 
 <img src="https://github.com/TarigYaegab.png" width="180" alt="Tarig Yaegab">
 
-# 👋 Hi, I'm Tarig Yaegab
+👋 Hi, I'm Tarig Yaegab
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&width=500&lines=Software+Engineer;Android+%26+Flutter+Developer;Java+%7C+C%2B%2B+%7C+Python+%7C+Web;Learning+ML+%26+Deep+Learning)
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🚀 About me
+- 👤 About me
 
 - 👨‍💻 Software Engineer based in Sudan
 - 📱 I build mobile apps with Flutter, Dart, Kotlin & Java
@@ -21,7 +21,7 @@
 
 | Project | Description |
 |---|---|
-| [🧾 Bill App](https://github.com/TarigYaegab/REPO_NAME) | Flutter billing/POS app for small retail shops, with barcode scanning, SQLite and BLoC |
+| [🧾 Bill App](https://github.com/TarigYaegab/ScanPOS-Mobile-App) | Flutter billing/POS app for small retail shops, with barcode scanning, SQLite and BLoC |
 | [🏗️ Al-Joun Construction](https://github.com/TarigYaegab/REPO_NAME) | Static GitHub Pages website, easy for non-developers to update |
 | [🧠 nawakAI](https://github.com/TarigYaegab/REPO_NAME) | ML/DL learning journey: NumPy and linear regression from scratch |
 
@@ -54,4 +54,4 @@
 
 - 🌐 [Portfolio](https://tarigyaegab.github.io/My-Portfolio/)
 - 💻 [GitHub](https://github.com/TarigYaegab)
-- 📧 your@email.com
+- 📧 tarigYaegab@email.com
