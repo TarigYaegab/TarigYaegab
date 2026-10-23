@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdlcWZ5b2ZydzhrZTVzdnBiZGJhYnpqMnQycHFsajU2MGx3azZ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif" width="35" alt="wave" />
-  Hi, I'm Tarig Yaegab
+  I'm Tarig Yaegab
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdlcWZ5b2ZydzhrZTVzdnBiZGJhYnpqMnQycHFsajU2MGx3azZ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif" width="35" alt="wave" />
 </h1>
 
