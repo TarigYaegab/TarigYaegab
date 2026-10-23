@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>💡 Learning by building, solving problems, and turning ideas into practical projects.</strong>
+  <strong>💡Software Developer | Python | AI & Machine Learning.</strong>
 </p>
 
 <p align="center">
