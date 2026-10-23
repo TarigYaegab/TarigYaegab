@@ -96,10 +96,10 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python · C++ · Dart |
+| **Languages** | Python · C++ · java |
 | **AI & Data** | NumPy · Pandas · Scikit-learn · Matplotlib |
 | **Mobile Development** | Flutter · SQLite |
-| **Tools & Environment** | Git · GitHub · Linux · VS Code |
+| **Tools & Environment** | Git · GitHub · Linux · VS Code . Windows|
 
 ---
 
