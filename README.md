@@ -55,10 +55,10 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 | Domain | Stack |
 |---|---|
 | **AI & Deep Learning** | PyTorch · Scikit-learn · Neural Nets from Scratch ·  |
-| **Data & BI** | SQL · Power BI · Excel · Pandas · Matplotlib · EDA · Data Cleaning |
+| **Data & BI** | SQL . SQLite · Power BI · Excel · Pandas · Matplotlib · EDA · Data Cleaning |
 | **Tools & Environment** | Git · GitHub · Linux · VS Code . Windows |
 | **Programming** | C/C++ . Python . java (intermediate)|
-| **Mobile Development** | Flutter · SQLite |
+| **Mobile Development** | Kotlin · Dart |
 | **Languages** | Arabic (Native) · English (intermediate) |
  
 ---
