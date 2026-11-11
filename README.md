@@ -98,7 +98,7 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 | Degree | Institution | Year |
 |---|---|---|
 | 🎓 **Currently Studying** — Computer Science (Online) | Harvard University | 2026 – Present |
-| 🎓 **Currently Studying** — Online Degree Program | The Open University (Online) | 2022 – 2026 |
+| 🎓 **Certificate** — Digital Marketing | The Open University (Online) | 2022 – 2026 |
  
 ---
 
@@ -117,6 +117,25 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
  
 ---
 
+---
+
+ 
+## 🔭 Currently
+ 
+* 🏗️ Building — End-to-end ML projects: regression & classification models, AutoML pipelines with MLflow tracking, Streamlit apps, and Flutter mobile apps
+* 🤝 Open to — Research collaborations · AI internships · Data roles
+ 
+---
+
+## 📬 Let's Connect
+ 
+*Data analyst background meets AI research ambition. I document my learning openly so others can follow the same path.*
+ 
+[![Email](https://img.shields.io/badge/✉️_gamareithar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamareithar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarigyaegab/)
+
+ ---
+---
 
 
 ### 📊 GitHub Activity
