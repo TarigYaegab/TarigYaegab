@@ -44,7 +44,7 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 | Degree | Institution | Year |
 |---|---|---|
 | 🎓 **Currently Studying** — Computer Science (Online) | Harvard University | 2026 – Present |
-| 🎓 **Certificate** — Digital Marketing | The Open University (Online) | 2022 – 2026 |
+| 🎓 **Certificate** — Digital Marketing | The Open University (Online) | 2022 – 2023 |
  
 ---
 
