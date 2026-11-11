@@ -1,35 +1,14 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Eithar+Ismail;AI+Researcher+%2F+Engineer;Building+AI+from+scratch+with+SAiR)](https://github.com/TarigYaegab)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Tarig+Yaegab;AI+Researcher+%2F+Engineer;Building+AI+from+scratch+with+SAiR)](https://github.com/TarigYaegab)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tarigyaegab/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gamareithar@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/EitharIsmail?style=for-the-badge&logo=github&label=Follow&color=0D1117&labelColor=0D1117&logoColor=white)](https://github.com/TarigYaegab)
+[![GitHub](https://img.shields.io/github/followers/TarigYaegab?style=for-the-badge&logo=github&label=Follow&color=0D1117&labelColor=0D1117&logoColor=white)](https://github.com/TarigYaegab)
  
 [![SAIR](https://img.shields.io/badge/🤖_Learning_@_SAIR-0D1117?style=flat-square&logoColor=white)](https://github.com/SAIR-Org)
 
 ---
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%26+C%2B%2B+Learner;Exploring+AI+%26+Machine+Learning;Building+Practical+Projects" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>💡Software Developer | Python | AI & Machine Learning.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20Machine%20Learning-6A5ACD?style=flat-square&logo=python&logoColor=white" alt="AI badge" />
-  <img src="https://img.shields.io/badge/Environment-Linux-E95420?style=flat-square&logo=linux&logoColor=white" alt="Linux badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/TarigYaegab"><img src="https://img.shields.io/badge/GitHub-TarigYaegab-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
 
 ### 👤 About Me
 
