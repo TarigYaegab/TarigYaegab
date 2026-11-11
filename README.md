@@ -24,57 +24,17 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 
 ---
 
-### 🚀 Featured Projects
 
-<div align="center">
+---
+ 
+## 🎯 Currently Learning @ SAIR
 
-<table width="100%" style="border-collapse:collapse; border:1px solid #30363d; border-radius:8px;">
-  <tr>
-    <td width="30%" align="center" valign="middle" style="padding:16px;">
-      <img src="https://img.shields.io/badge/ScanPOS-Mobile%20App-1F6FEB?style=for-the-badge&logo=flutter&logoColor=white" alt="ScanPOS" />
-    </td>
-    <td width="70%" valign="top" style="padding:16px;">
-      <h3>🧾 ScanPOS — Mobile Billing App</h3>
-      A mobile billing project focused on product checking and QR-code scanning, with the goal of making everyday billing workflows more convenient.
-      <br /><br />
-      <b>Focus:</b> Flutter · Dart · QR scanning · Mobile development
-      <br /><br />
-      <a href="https://github.com/TarigYaegab?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse:collapse; border:1px solid #30363d; border-radius:8px;">
-  <tr>
-    <td width="30%" align="center" valign="middle" style="padding:16px;">
-      <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning%20Projects-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML" />
-    </td>
-    <td width="70%" valign="top" style="padding:16px;">
-      <h3>🤖 AI & Machine Learning</h3>
-      Learning machine learning concepts through practical experiments, including data preparation, feature engineering, model training, and evaluation.
-      <br /><br />
-      <b>Focus:</b> Python · NumPy · Pandas · Scikit-learn
-      <br /><br />
-      <a href="https://github.com/TarigYaegab?tab=repositories"><img src="https://img.shields.io/badge/View%20Projects-181717?style=flat-square&logo=github&logoColor=white" alt="View projects" /></a>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse:collapse; border:1px solid #30363d; border-radius:8px;">
-  <tr>
-    <td width="30%" align="center" valign="middle" style="padding:16px;">
-      <img src="https://img.shields.io/badge/SAIR%20Jr-Collaboration-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="SAIR Jr" />
-    </td>
-    <td width="70%" valign="top" style="padding:16px;">
-      <h3>🤝 SAIR Jr.</h3>
-      A collaborative repository connected to my software and AI learning journey.
-      <br /><br />
-      <a href="https://github.com/TarigYaegab/SAIR_Jr"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Open SAIR Jr repository" /></a>
-    </td>
-  </tr>
-</table>
-
-</div>
+🐍 Python → NumPy, Pandas, Matplotlib for data work
+📈 Regression → Linear regression projects (sales predictor, USD/SDG price model)
+🤖 scikit-learn → Regression & classification, model comparison, baselines
+🧪 ML Workflow → Feature engineering, chronological train/val/test splits, no data leakage
+📊 MLflow → Experiment tracking & model logging in my XRP/USDT AutoML project
+🌐 Streamlit → Interactive apps that serve live predictions
 
 ---
  
