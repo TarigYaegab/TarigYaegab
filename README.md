@@ -93,6 +93,17 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 
 ---
  
+## 🔬 Education
+ 
+| Degree | Institution | Year |
+|---|---|---|
+| 🎓 **Currently Studying** — Computer Science (Online) | Harvard University | 2026 – Present |
+| 🎓 **Currently Studying** — Online Degree Program | The Open University (Online) | 2022 – 2026 |
+ 
+---
+
+---
+ 
 ## 🛠️ Technical Skills
  
 | Domain | Stack |
@@ -102,7 +113,7 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 | **Tools & Environment** | Git · GitHub · Linux · VS Code . Windows |
 | **Programming** | C/C++ . Python . java (intermediate)|
 | **Mobile Development** | Flutter · SQLite |
-| **Languages** | Arabic (Native) · English (Fluent — IELTS 7.5) |
+| **Languages** | Arabic (Native) · English (intermediate) |
  
 ---
 
