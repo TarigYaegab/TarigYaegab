@@ -1,4 +1,13 @@
-I'm Tarig Yaegab
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Eithar+Ismail;AI+Researcher+%2F+Engineer;Building+AI+from+scratch+with+SAiR)](https://github.com/TarigYaegab)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tarigyaegab/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gamareithar@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/EitharIsmail?style=for-the-badge&logo=github&label=Follow&color=0D1117&labelColor=0D1117&logoColor=white)](https://github.com/TarigYaegab)
+ 
+[![SAIR](https://img.shields.io/badge/🤖_Learning_@_SAIR-0D1117?style=flat-square&logoColor=white)](https://github.com/SAIR-Org)
+
+---
 </h1>
 
 <p align="center">
