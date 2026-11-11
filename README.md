@@ -30,7 +30,8 @@
 I'm Tarig Yaegab, a developer who enjoys understanding how technology works, solving problems, and learning through hands-on projects. My interests bring together software development and Artificial Intelligence. I'm working on strengthening my programming fundamentals while exploring data analysis and machine learning concepts.
 
 - 💻 Building practical software projects and improving my development workflow.
-- 🐍 Learning and using Python for programming and AI-related experiments.
+- 🐍 Learning and using Python for programming Solid foundations: Numpy, Pandas, Matplotlib and AI-related experiments.
+- 🧠 Neural Networks → Built from scratch — no shortcuts
 - ⚙️ Practicing C++ and core programming concepts.
 - 🤖 Exploring machine learning, data analysis, and predictive modeling.
 - 🐧 Using Linux and open-source development tools.
@@ -91,17 +92,21 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 </div>
 
 ---
-
-### 🧰 Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python · C++ · java |
-| **AI & Data** | NumPy · Pandas · Scikit-learn · Matplotlib |
+ 
+## 🛠️ Technical Skills
+ 
+| Domain | Stack |
+|---|---|
+| **AI & Deep Learning** | PyTorch · Scikit-learn · Neural Nets from Scratch ·  |
+| **Data & BI** | SQL · Power BI · Excel · Pandas · Matplotlib · EDA · Data Cleaning |
+| **Tools & Environment** | Git · GitHub · Linux · VS Code . Windows |
+| **Programming** | C/C++ . Python . java (intermediate)|
 | **Mobile Development** | Flutter · SQLite |
-| **Tools & Environment** | Git · GitHub · Linux · VS Code . Windows|
-
+| **Languages** | Arabic (Native) · English (Fluent — IELTS 7.5) |
+ 
 ---
+
+
 
 ### 📊 GitHub Activity
 
