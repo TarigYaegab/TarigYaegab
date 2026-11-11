@@ -28,13 +28,14 @@ I'm Tarig Yaegab, a developer who enjoys understanding how technology works, sol
 ---
  
 ## 🎯 Currently Learning @ SAIR
-
+```
 🐍 Python → NumPy, Pandas, Matplotlib for data work
 📈 Regression → Linear regression projects (sales predictor, USD/SDG price model)
 🤖 scikit-learn → Regression & classification, model comparison, baselines
 🧪 ML Workflow → Feature engineering, chronological train/val/test splits, no data leakage
 📊 MLflow → Experiment tracking & model logging in my XRP/USDT AutoML project
 🌐 Streamlit → Interactive apps that serve live predictions
+```
 
 ---
  
